@@ -1,0 +1,17 @@
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\WebScraper1.exe
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\WebScraper1.deps.json
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\WebScraper1.runtimeconfig.json
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\WebScraper1.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\WebScraper1.pdb
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.csproj.AssemblyReference.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.AssemblyInfoInputs.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.AssemblyInfo.cs
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.csproj.CoreCompileInputs.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.csproj.CopyComplete
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\refint\WebScraper1.dll
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.pdb
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\WebScraper1.genruntimeconfig.cache
+C:\Users\jorda_ijxh2dh\Desktop\C# Tutorial\WebScraperC#\Web Scraper\WebScraper1\obj\Debug\net8.0\ref\WebScraper1.dll

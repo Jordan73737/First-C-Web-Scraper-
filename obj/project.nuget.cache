@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "keKWDzCdRH47mfmtb6rZKAsPVZjFYpwHUj+X4BH3xnxQHTzf8eCSNGkjTpH8usUcF0FUJSzzd2UNjuYk9eXcLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorda_ijxh2dh\\Desktop\\C# Tutorial\\WebScraperC#\\Web Scraper\\WebScraper1\\WebScraper1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorda_ijxh2dh\\.nuget\\packages\\htmlagilitypack\\1.11.58\\htmlagilitypack.1.11.58.nupkg.sha512"
+  ],
+  "logs": []
+}
